@@ -4,7 +4,7 @@
 This project analyses an order-level retail dataset using SQL to explore sales performance, profitability, and demand trends.
 
 ## Dataset
-- Source: Kaggle – EuroMart Stores Order Data 
+- Source: Kaggle – EuroMart Stores Order Data (https://www.kaggle.com/datasets/braniac2000/retail-dataset/data)
 - The dataset contains information on orders, products, customers, sales, profit, and geography.
 
 ## Key Questions
